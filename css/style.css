@@ -1,3 +1,25 @@
+/* header styles */
+.header-wraper {
+    background-color: gray;
+    padding: 30px;
+}
+.nav-wraper {
+    display: flex;
+    justify-content: space-between;
+}
+.nav-ul {
+    display: flex;
+}
+.nav-ul li {
+    margin-right: 30px;
+}
+.fa-bars {
+    font-size: 30px;
+    color: #fff;
+}
+.burger {
+    display: none;
+}
 /* section#1 */
 .section-bg {
     background-color: lightgray;
